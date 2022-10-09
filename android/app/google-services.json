@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525091620439",
+    "project_id": "loginapp-b8814",
+    "storage_bucket": "loginapp-b8814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525091620439:android:f75d971848fa28b7938512",
+        "android_client_info": {
+          "package_name": "com.example.fire_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525091620439-ucn4cbgv6u2g1uh3uao5tntf6u58k8cm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fire_login",
+            "certificate_hash": "c3e2de07966e9202885ad1ba7fa4b2e336379ab1"
+          }
+        },
+        {
+          "client_id": "525091620439-7vaqc388an6qvu1mpef72jqjn4ec6qeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChpxkslFkM8a97Em_Hok59te8aovYUbW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525091620439-7vaqc388an6qvu1mpef72jqjn4ec6qeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
